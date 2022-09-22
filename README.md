@@ -39,7 +39,6 @@ using the service except the usual gas fees.
 ## Acknowledgments
 
 * Quasar Framework, Vyper
-* [robacoin.com](https://robacoin.com/) - for the cryptonews and CORS help
 * [vuejs.org](https://vuejs.org/) - for the framework
 
 
