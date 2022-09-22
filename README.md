@@ -32,7 +32,7 @@ using the service except the usual gas fees.
 
 ## Authors
 
-* **Robert Mutua** - *J* - [freelancer254](https://github.com/freelancer254)
+* **Robert Mutua** - *Buidling on web3* - [freelancer254](https://github.com/freelancer254)
 
 
 
