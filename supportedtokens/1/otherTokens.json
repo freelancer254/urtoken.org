@@ -1,0 +1,26 @@
+[
+  {
+    "id": "shib",
+    "name": "SHIB",
+    "logo": "shib.svg",
+    "style": " background: linear-gradient(to top, #40e0d0, #ff8c00, #ff0080)"
+  },
+  {
+    "id": "uni",
+    "name": "UNI",
+    "logo": "uni.svg",
+    "style": "background: radial-gradient(circle, #d85fd8 0%, #a72948 100%)"
+  },
+  {
+    "id": "aave",
+    "name": "AAVE",
+    "logo": "aave.svg",
+    "style": "background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59)"
+  },
+  {
+    "id": "link",
+    "name": "LINK",
+    "logo": "link.svg",
+    "style": "background: linear-gradient(to bottom, #000046, #1cb5e0)"
+  }
+]

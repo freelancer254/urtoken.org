@@ -1,0 +1,26 @@
+[
+  {
+    "id": "usdt",
+    "name": "USDT",
+    "logo": "usdt.svg",
+    "style": "background: radial-gradient(circle, #34e89e 10%, #0f3443 100%);"
+  },
+  {
+    "id": "dai",
+    "name": "DAI",
+    "logo": "dai.svg",
+    "style": "background: radial-gradient(circle, #ba8b02 10%, #181818 100%)"
+  },
+  {
+    "id": "usdc",
+    "name": "USDC",
+    "logo": "usdc.svg",
+    "style": "background: radial-gradient(circle, #35a2ff 0%, #014a88 100%)"
+  },
+  {
+    "id": "busd",
+    "name": "BUSD",
+    "logo": "busd.svg",
+    "style": "background: radial-gradient(circle, #ba8b02 10%, #181818 100%)"
+  }
+]

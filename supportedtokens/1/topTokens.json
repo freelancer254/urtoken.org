@@ -1,0 +1,42 @@
+[
+  [
+    {
+      "id": "usdc",
+      "name": "USDC",
+      "logo": "usdc.svg",
+      "style": "background: radial-gradient(circle, #35a2ff 0%, #014a88 100%)"
+    },
+    {
+      "id": "weth",
+      "name": "WETH",
+      "logo": "eth.svg",
+      "style": "background: radial-gradient(circle, #bdc3c7 10%, #2c3e50 100%)"
+    },
+    {
+      "id": "link",
+      "name": "LINK",
+      "logo": "link.svg",
+      "style": "background: linear-gradient(to bottom, #000046, #1cb5e0)"
+    }
+  ],
+  [
+    {
+      "id": "busd",
+      "name": "BUSD",
+      "logo": "busd.svg",
+      "style": "background: radial-gradient(circle, #ba8b02 10%, #181818 100%)"
+    },
+    {
+      "id": "wbtc",
+      "name": "WBTC",
+      "logo": "wbtc.svg",
+      "style": "background: radial-gradient(circle, #fdc830 10%, #f37335 100%)"
+    },
+    {
+      "id": "aave",
+      "name": "AAVE",
+      "logo": "aave.svg",
+      "style": "background: linear-gradient(to right, #12c2e9 , #c471ed, #f64f59)"
+    }
+  ]
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "usdc",
+    "name": "USDC",
+    "decimals": 6,
+    "erc20Address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "urTokenAddress": "0x62fF748Bd67C303c44cbeD24401603A1ca66a9C3"
+  },
+  {
+    "id": "usdt",
+    "name": "USDT",
+    "decimals": 6,
+    "erc20Address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "urTokenAddress": "0x76b403eEBb604c7e2194aFaF3439fD0873A96616"
+  },
+  {
+    "id": "dai",
+    "name": "DAI",
+    "decimals": 18,
+    "erc20Address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+    "urTokenAddress": "0x638D9c02C8e0518704dd3Cc0a4f5B7F58594c4EE"
+  },
+  {
+    "id": "busd",
+    "name": "BUSD",
+    "decimals": 18,
+    "erc20Address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+    "urTokenAddress": "0x6a77d224e76aB4625151578906E3A3aC0f4f587f"
+  },
+  {
+    "id": "weth",
+    "name": "WETH",
+    "decimals": 18,
+    "erc20Address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "urTokenAddress": "0x020202747A4BdFe128f1bc9eB368735D9f306Dd8"
+  },
+
+  {
+    "id": "wmatic",
+    "name": "WMATIC",
+    "decimals": 18,
+    "erc20Address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+    "urTokenAddress": "0x71658A23d9c7F1593C8B0805B40d07240ed947Ee"
+  }
+]

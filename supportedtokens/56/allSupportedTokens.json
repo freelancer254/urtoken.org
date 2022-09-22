@@ -1,0 +1,65 @@
+[
+  {
+    "id": "usdc",
+    "name": "USDC",
+    "decimals": 18,
+    "erc20Address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "urTokenAddress": "0xC4Bb6295094f989D1aeBB0316fE66e774e805845"
+  },
+  {
+    "id": "usdt",
+    "name": "USDT",
+    "decimals": 18,
+    "erc20Address": "0x55d398326f99059fF775485246999027B3197955",
+    "urTokenAddress": "0x62fF748Bd67C303c44cbeD24401603A1ca66a9C3"
+  },
+  {
+    "id": "dai",
+    "name": "DAI",
+    "decimals": 18,
+    "erc20Address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+    "urTokenAddress": "0x76b403eEBb604c7e2194aFaF3439fD0873A96616"
+  },
+  {
+    "id": "busd",
+    "name": "BUSD",
+    "decimals": 18,
+    "erc20Address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "urTokenAddress": "0x638D9c02C8e0518704dd3Cc0a4f5B7F58594c4EE"
+  },
+  {
+    "id": "eth",
+    "name": "ETH",
+    "decimals": 18,
+    "erc20Address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "urTokenAddress": "0x6a77d224e76aB4625151578906E3A3aC0f4f587f"
+  },
+  {
+    "id": "btcb",
+    "name": "BTCB",
+    "decimals": 8,
+    "erc20Address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "urTokenAddress": "0x020202747A4BdFe128f1bc9eB368735D9f306Dd8"
+  },
+  {
+    "id": "matic",
+    "name": "MATIC",
+    "decimals": 18,
+    "erc20Address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+    "urTokenAddress": "0x71658A23d9c7F1593C8B0805B40d07240ed947Ee"
+  },
+  {
+    "id": "wbnb",
+    "name": "WBNB",
+    "decimals": 18,
+    "erc20Address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "urTokenAddress": "0xEac30cF13496c548E368e4db96F6d47c14c3705c"
+  },
+  {
+    "id": "shib",
+    "name": "SHIB",
+    "decimals": 18,
+    "erc20Address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+    "urTokenAddress": "0x3D911c11992712ccd26FDc568E1b0D3C5871dC3b"
+  }
+]

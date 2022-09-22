@@ -1,0 +1,14 @@
+[
+  {
+    "id": "btcb",
+    "name": "BTCB",
+    "logo": "btcb.svg",
+    "style": "background: radial-gradient(circle, #fdc830 10%, #f37335 100%)"
+  },
+  {
+    "id": "shib",
+    "name": "SHIB",
+    "logo": "shib.svg",
+    "style": " background: linear-gradient(to top, #40e0d0, #ff8c00, #ff0080)"
+  }
+]

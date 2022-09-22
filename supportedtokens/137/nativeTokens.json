@@ -1,0 +1,15 @@
+[
+  {
+    "id": "weth",
+    "name": "WETH",
+    "logo": "weth.svg",
+    "style": "background: radial-gradient(circle, #bdc3c7 10%, #2c3e50 100%)"
+  },
+
+  {
+    "id": "wmatic",
+    "name": "WMATIC",
+    "logo": "wmatic.svg",
+    "style": "background: radial-gradient(circle, #6441a5 10%, #2a0845 100%)"
+  }
+]

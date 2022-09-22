@@ -1,0 +1,79 @@
+[
+  {
+    "id": "usdc",
+    "name": "USDC",
+    "decimals": 6,
+    "erc20Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "urTokenAddress": "0xC4Bb6295094f989D1aeBB0316fE66e774e805845"
+  },
+  {
+    "id": "dai",
+    "name": "DAI",
+    "decimals": 18,
+    "erc20Address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "urTokenAddress": "0x76b403eEBb604c7e2194aFaF3439fD0873A96616"
+  },
+  {
+    "id": "busd",
+    "name": "BUSD",
+    "decimals": 18,
+    "erc20Address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+    "urTokenAddress": "0x638D9c02C8e0518704dd3Cc0a4f5B7F58594c4EE"
+  },
+  {
+    "id": "weth",
+    "name": "WETH",
+    "decimals": 18,
+    "erc20Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "urTokenAddress": "0x6a77d224e76aB4625151578906E3A3aC0f4f587f"
+  },
+  {
+    "id": "wbtc",
+    "name": "WBTC",
+    "decimals": 8,
+    "erc20Address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "urTokenAddress": "0x020202747A4BdFe128f1bc9eB368735D9f306Dd8"
+  },
+  {
+    "id": "matic",
+    "name": "MATIC",
+    "decimals": 18,
+    "erc20Address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "urTokenAddress": "0x71658A23d9c7F1593C8B0805B40d07240ed947Ee"
+  },
+  {
+    "id": "bnb",
+    "name": "BNB",
+    "decimals": 18,
+    "erc20Address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "urTokenAddress": "0xEac30cF13496c548E368e4db96F6d47c14c3705c"
+  },
+  {
+    "id": "shib",
+    "name": "SHIB",
+    "decimals": 18,
+    "erc20Address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "urTokenAddress": "0x3D911c11992712ccd26FDc568E1b0D3C5871dC3b"
+  },
+  {
+    "id": "uni",
+    "name": "UNI",
+    "decimals": 18,
+    "erc20Address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "urTokenAddress": "0xb0eD881fb9c42b5719ab4C6A9eEF5673E0c95A67"
+  },
+  {
+    "id": "link",
+    "name": "LINK",
+    "decimals": 18,
+    "erc20Address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "urTokenAddress": "0x3D3cBa6525736fd1ECe0b3E67ccAe01C319af0E7"
+  },
+  {
+    "id": "aave",
+    "name": "AAVE",
+    "decimals": 18,
+    "erc20Address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "urTokenAddress": "0x046EED5fBB2Bb9dFC830678492AC54813c19F24A"
+  }
+]

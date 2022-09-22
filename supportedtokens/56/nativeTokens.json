@@ -1,0 +1,26 @@
+[
+  {
+    "id": "eth",
+    "name": "ETH",
+    "logo": "eth.svg",
+    "style": "background: radial-gradient(circle, #bdc3c7 10%, #2c3e50 100%)"
+  },
+  {
+    "id": "btcb",
+    "name": "BTCB",
+    "logo": "btcb.svg",
+    "style": "background: radial-gradient(circle, #fdc830 10%, #f37335 100%)"
+  },
+  {
+    "id": "wbnb",
+    "name": "WBNB",
+    "logo": "wbnb.svg",
+    "style": "background: radial-gradient(circle, #ba8b02 10%, #181818 100%)"
+  },
+  {
+    "id": "matic",
+    "name": "MATIC",
+    "logo": "matic.svg",
+    "style": "background: radial-gradient(circle, #6441a5 10%, #2a0845 100%)"
+  }
+]
