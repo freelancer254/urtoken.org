@@ -38,5 +38,39 @@
       "logo": "aave.svg",
       "style": "background: linear-gradient(to right, #12c2e9 , #c471ed, #f64f59)"
     }
+  ],
+  [
+    {
+      "id": "matic",
+      "name": "MATIC",
+      "logo": "matic.svg",
+      "style": "background: radial-gradient(circle, #6441a5 10%, #2a0845 100%)"
+    },
+    {
+      "id": "bnb",
+      "name": "BNB",
+      "logo": "bnb.svg",
+      "style": "background: radial-gradient(circle, #ba8b02 10%, #181818 100%)"
+    },
+    {
+      "id": "uni",
+      "name": "UNI",
+      "logo": "uni.svg",
+      "style": "background: radial-gradient(circle, #d85fd8 0%, #a72948 100%)"
+    }
+  ],
+  [
+    {
+      "id": "shib",
+      "name": "SHIB",
+      "logo": "shib.svg",
+      "style": " background: linear-gradient(to top, #40e0d0, #ff8c00, #ff0080)"
+    },
+    {
+      "id": "dai",
+      "name": "DAI",
+      "logo": "dai.svg",
+      "style": "background: radial-gradient(circle, #ba8b02 10%, #181818 100%)"
+    }
   ]
 ]
